@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 184 184" enable-background="new 0 0 184 184" xml:space="preserve">
+<circle fill="#E1E5EA" cx="92" cy="92" r="92"/>
+<path d="M23,126.9V43.4c0-1.5,1.3-2.7,2.8-2.7h132.4c1.5,0,2.8,1.2,2.8,2.7v83.6L23,126.9L23,126.9z"/>
+<path fill="#636363" d="M161,126.9v11.5c0,1.6-1.3,2.9-2.8,2.9H25.8c-1.5,0-2.8-1.3-2.8-2.9v-11.5H161L161,126.9z"/>
+<polygon fill="#C9C9C9" points="71.9,161.4 112.1,161.4 109.3,141.3 74.8,141.3 "/>
+<polygon fill="#AAAAAA" points="109.3,141.3 74.8,141.3 73,153.8 109.9,146 "/>
+<rect x="61.8" y="161.4" fill="#636363" width="60.4" height="2.9"/>
+<polygon fill="#939393" points="74.8,141.3 109.3,141.3 109.4,142.7 73.9,147.6 "/>
+<rect x="39.8" y="52.6" fill="#FE9426" width="47.3" height="26.9"/>
+<rect x="39.8" y="88" fill="#5780DE" width="47.3" height="26.9"/>
+<rect x="96.8" y="52.6" fill="#FE9426" width="47.3" height="26.9"/>
+<rect x="96.8" y="88" fill="#5780DE" width="47.3" height="26.9"/>
+<path d="M175.6,184h-44.4c-1.5,0-2.7-1.2-2.7-2.7V97.9c0-1.5,1.2-2.7,2.7-2.7h44.4c1.5,0,2.7,1.2,2.7,2.7v83.5
+	C178.3,182.8,177.1,184,175.6,184z"/>
+<rect x="131.2" y="102.3" width="44.4" height="71"/>
+<g>
+	<path fill="#999999" d="M158.7,99.6H148c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h10.7c0.5,0,0.9,0.4,0.9,0.9l0,0
+		C159.6,99.2,159.2,99.6,158.7,99.6z"/>
+	<path fill="#999999" d="M158.7,178.7h-10.7c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h10.7c0.5,0,0.9,0.4,0.9,0.9l0,0
+		C159.6,178.3,159.2,178.7,158.7,178.7z"/>
+</g>
+<g>
+	<rect x="136.5" y="108.6" fill="#FE9426" width="15.3" height="14.2"/>
+	<rect x="155" y="108.6" fill="#FE9426" width="15.3" height="14.2"/>
+</g>
+<g>
+	<rect x="136.5" y="126.3" fill="#5780DE" width="15.3" height="14.2"/>
+	<rect x="155" y="126.3" fill="#5780DE" width="15.3" height="14.2"/>
+</g>
+<g>
+	<rect x="136.5" y="165.6" fill="#C9C9C9" width="33.7" height="1.4"/>
+	<rect x="136.5" y="159.9" fill="#C9C9C9" width="33.7" height="1.4"/>
+	<rect x="136.5" y="154.3" fill="#C9C9C9" width="33.7" height="1.4"/>
+	<rect x="136.5" y="148.6" fill="#C9C9C9" width="33.7" height="1.4"/>
+</g>
+</svg>

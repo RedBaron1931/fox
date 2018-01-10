@@ -1,0 +1,110 @@
+@import "vars"
+
+.header_menu
+	display: flex
+	flex-direction: row
+	justify-content: space-between
+	padding-bottom: 60px
+	.logo 
+		height: 50px
+		img
+			padding-left: 80px
+			padding-top: 15px
+			width: 135px
+			height: 76px
+	#menu
+		display: flex
+		flex-direction: row
+		justify-content: space-between
+		padding-right: 82px
+		li
+			list-style-type: none
+			padding-left: 30px
+			padding-top: 43px
+		li:nth-child(1) a 
+			color: #ff8813
+		a
+			color: #323230
+			text-decoration: none
+		a:hover        
+			color: #ff8813
+
+.content
+	display: flex
+	flex-direction: row
+	justify-content: space-between
+	// justify-content: space-around
+	height: 100%
+
+	.paginations 
+		margin-top: 160px
+		margin-left: 80px
+		span
+			display: flex 
+			flex-direction: column
+			width: 8px
+			height: 8px 
+			
+			background-color: #323230
+			cursor: pointer
+			margin-bottom: 10px
+			border-radius: 50%
+		span:first-child
+			background-color: #ff8813
+			width: 16px
+			height: 16px
+	.content-text
+
+		span
+			
+			display: flex
+			flex-direction: column
+			font-size: 76px
+			width: 540px
+		span:last-child
+			font-size: 18px		
+	.content-items
+		img
+			margin-left: -10px
+			height: 100%
+
+.footer
+	position: absolute
+	// display: flex
+	// flex-direction: row
+	left: 0
+	bottom: 0
+	width: 100%
+	height: 50px
+	display: flex
+	flex-direction: row
+	
+
+	.language
+		display: flex
+		flex-direction: row
+		justify-content: space-between
+		width: 50%
+		// .footer-items
+		// 	span
+		// 		width: 76px
+		// 		height: 76px
+		// 		border-radius: 50%
+		// 		background-color: red
+		ul
+			padding-left: 80px
+			display: flex
+			flex-direction: row
+			li
+				list-style-type: none
+			li:nth-child(2) a 
+				color: #ff8813
+			a
+				text-decoration: none
+				color: #323230
+				padding-left: 5px
+			a:hover        
+				color: #ff8813
+	
+
+@import "media"

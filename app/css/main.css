@@ -131,7 +131,7 @@
 .centre_services_content {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .centre_services_content .left_services {
@@ -142,7 +142,13 @@
   font-size: 76px;
 }
 
-.centre_services_content .text_left_list li {
+.centre_services_content .left_services .text_left_list ul {
+  list-style-type: none;
+}
+
+.centre_services_content .left_services .text_left_list ul li a {
+  text-decoration: none;
+  color: #0b0b0b;
   font-size: 24px;
   list-style: none;
 }
@@ -150,10 +156,12 @@
 .centre_services_content .right_services {
   display: flex;
   flex-direction: row;
-  text-align: center;
 }
 
 .centre_services_content .right_services .item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   padding-right: 10px;
 }
 

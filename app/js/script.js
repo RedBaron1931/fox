@@ -1,3 +1,10 @@
 $(document).ready(function () {
-    $(".owl-carousel").owlCarousel()
+    $(".right_services").owlCarousel({
+        margin: 10,
+        loop: true,
+        autoWidht: true,
+        items: 4
+
+    });
+
 });

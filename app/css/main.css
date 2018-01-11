@@ -131,7 +131,7 @@
 .centre_services_content {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .centre_services_content .left_services {
@@ -147,17 +147,16 @@
   list-style: none;
 }
 
-.right_services {
-  display: flex;
-  flex-direction: row;
+.centre_services_content .right_services {
+  text-align: center;
 }
 
-.right_services .owl-carousel .items img {
+.centre_services_content .right_services .item img {
   height: 100px;
   width: 100px;
 }
 
-.right_services .owl-carousel .items p {
+.centre_services_content .right_services .item p {
   width: 381px;
   height: 240px;
 }

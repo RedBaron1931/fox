@@ -152,12 +152,12 @@
   flex-direction: row;
 }
 
-.right_services .owl_carousel_servises .items_servisec img {
+.right_services .owl-carousel .items img {
   height: 100px;
   width: 100px;
 }
 
-.right_services .owl_carousel_servises .items_servisec p {
+.right_services .owl-carousel .items p {
   width: 381px;
   height: 240px;
 }

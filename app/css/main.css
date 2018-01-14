@@ -179,15 +179,21 @@
   font-size: 76px;
 }
 
-.centre_services_content .text_left_list li {
+.centre_services_content .text_left_list ul li {
   font-size: 24px;
   list-style: none;
+}
+
+.centre_services_content .text_left_list ul li a {
+  color: #0b0b0b;
+  font-size: 24px;
+  list-style: none;
+  text-decoration: none;
 }
 
 .centre_services_content .right_services {
   display: flex;
   flex-direction: row;
-  text-align: center;
 }
 
 .centre_services_content .right_services .item {

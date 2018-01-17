@@ -168,7 +168,7 @@
 .centre_services_content {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .centre_services_content .left_services {
@@ -189,11 +189,6 @@
   font-size: 24px;
   list-style: none;
   text-decoration: none;
-}
-
-.centre_services_content .right_services {
-  display: flex;
-  flex-direction: row;
 }
 
 .centre_services_content .right_services .item {
@@ -235,7 +230,7 @@
 /* Custom, iPhone Retina */
 @media only screen and (max-width: 320px) {
   .center_block {
-    margin-left: 0%;
+    margin-left: 0%
   }
 }
 
@@ -243,7 +238,7 @@
 /* Custom, iPhone Retina */
 @media only screen and (min-width: 320px) {
   .center_block {
-    margin-left: 0%;
+    margin-left: 0%
   }
   .header .description {
     width: 300px;

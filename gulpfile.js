@@ -63,15 +63,15 @@ gulp.task('watch',['browser-sync'], function(){
 	gulp.watch('app/js/**/*.js', browserSync.reload)
 });
 
-gulp.task('default', ['watch'])
+gulp.task('default', ['watch']);
 
 gulp.task('build', ['clean'], function(){
 	var buildHtml = gulp.src('app/*.html')
-		.pipe(gulp.dest('dist'))
+        .pipe(gulp.dest('dist'));
 	var buildJs = gulp.src('app/js/**/*.js')
-		.pipe(gulp.dest('dist/js'))
+        .pipe(gulp.dest('dist/js'));
 	var buildFonts = gulp.src('app/fonts/**/*')
-		.pipe(gulp.dest('dist/fonts'))
+        .pipe(gulp.dest('dist/fonts'));
 	var buildCss = gulp.src(['!app/css/libs.css','app/css/**/*.css'])
 		.pipe(gulp.dest('dist/css'))
 });
